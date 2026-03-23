@@ -13,7 +13,6 @@ public class LineGen : MonoBehaviour
     public Vector2 spherePos;
     public float sphereZ;
 
-    // ✅ Rotations
     public float xRot = 0;
     public float yRot = 0;
     public float zRot = 0;
